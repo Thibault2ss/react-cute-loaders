@@ -4,6 +4,10 @@
 
 [![NPM](https://img.shields.io/npm/v/react-cute-loaders.svg)](https://www.npmjs.com/package/react-cute-loaders) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/20459279/153725077-a91037d9-fcde-49d7-8d9f-198d1fdc2611.gif" alt="react-cute-loaders" width="200"/>
+</p>
+
 ## Install
 with npm:
 ```bash
