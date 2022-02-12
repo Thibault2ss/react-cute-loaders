@@ -5,23 +5,24 @@
 [![NPM](https://img.shields.io/npm/v/react-cute-loaders.svg)](https://www.npmjs.com/package/react-cute-loaders) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
-
+with npm:
 ```bash
-npm install --save react-cute-loaders
+npm install react-cute-loaders
+```
+
+with yarn:
+```bash
+yarn add react-cute-loaders
 ```
 
 ## Usage
 
 ```tsx
-import React, { Component } from 'react'
+import React from 'react'
+import {  Cube3DLoader  } from 'react-cute-loaders'
 
-import MyComponent from 'react-cute-loaders'
-import 'react-cute-loaders/dist/index.css'
-
-class Example extends Component {
-  render() {
-    return <MyComponent />
-  }
+const YourComponent = () => {
+   return <Cube3DLoader size={40} variant={1} color='#e20b78' />
 }
 ```
 
